@@ -1,40 +1,9 @@
-SQL CRUD Operations
-
-This project demonstrates the basic CRUD operations using SQL.
-
-CRUD stands for:
-
-Create – Insert new data into the database.
-
-Read – View or retrieve data from the database.
-
-Update – Modify existing data in the database.
-
-Delete – Remove data from the database.
-
-Operations Used
-INSERT – To add new records
-SELECT – To retrieve records
-UPDATE – To modify records
-DELETE – To remove records
-Technology Used
-SQL
-MySQL
-Description
 # SQL CRUD Operations
-
-This project demonstrates the basic CRUD operations using SQL.
-
-#  SQL CRUD Operations
 
 ## Project Screenshots
 
-screenshots
+![Screenshot 1](./Screenshot%202026-08-10%20225320.png)
 
-screenshots
+![Screenshot 2](./Screenshot%202026-08-10%20225510.png)
 
-screenshots
-
-
-Author
-Gajjala Pranay Kumar Reddy
+![Screenshot 3](./Screenshot%202026-08-10%20225722.png)
