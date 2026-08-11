@@ -29,11 +29,11 @@ This project demonstrates the basic CRUD operations using SQL.
 
 ## Project Screenshots
 
-screenshot1.png
+screenshots
 
-screenshot2.png
+screenshots
 
-screenshot3.png
+screenshots
 
 
 Author
