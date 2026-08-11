@@ -29,14 +29,11 @@ This project demonstrates the basic CRUD operations using SQL.
 
 ## Project Screenshots
 
-### Database
-![Database](screenshots/database.png)
+screenshot1.png
 
-### Insert Query
-![Insert Query](screenshots/insert.png)
+screenshot2.png
 
-### Output
-![Output](screenshorts/output.png)
+screenshot3.png
 
 
 Author
