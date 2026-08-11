@@ -25,19 +25,19 @@ Description
 
 This project demonstrates the basic CRUD operations using SQL.
 
-## CRUD Operations
+#  SQL CRUD Operations
 
-### Create
-![Create Operation](screenshots/create.png)
+## Project Screenshots
 
-### Read
-![Read Operation](screenshots/read.png)
+### Database
+![Database](screenshots/database.png)
 
-### Update
-![Update Operation](screenshots/update.png)
+### Insert Query
+![Insert Query](screenshots/insert.png)
 
-### Delete
-![Delete Operation](screenshots/delete.png)
+### Output
+![Output](screenshorts/output.png)
+
 
 Author
 Gajjala Pranay Kumar Reddy
